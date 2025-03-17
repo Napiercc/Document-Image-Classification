@@ -1,1 +1,0 @@
-# Document-Image-Classification
