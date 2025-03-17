@@ -1,0 +1,302 @@
+[train hyper-parameters: Namespace(batch_size=16, num_classes=10, lr=0.001, lrf=0.01)]
+
+[epoch: 1]
+train loss:0.0861	test accuracy:0.6747
+
+[epoch: 2]
+train loss:0.0531	test accuracy:0.7088
+
+[epoch: 3]
+train loss:0.0430	test accuracy:0.7736
+
+[epoch: 4]
+train loss:0.0365	test accuracy:0.7912
+
+[epoch: 5]
+train loss:0.0339	test accuracy:0.8198
+
+[epoch: 6]
+train loss:0.0299	test accuracy:0.8121
+
+[epoch: 7]
+train loss:0.0269	test accuracy:0.8165
+
+[epoch: 8]
+train loss:0.0247	test accuracy:0.8308
+
+[epoch: 9]
+train loss:0.0224	test accuracy:0.8242
+
+[epoch: 10]
+train loss:0.0203	test accuracy:0.8176
+
+[epoch: 11]
+train loss:0.0176	test accuracy:0.7879
+
+[epoch: 12]
+train loss:0.0185	test accuracy:0.8154
+
+[epoch: 13]
+train loss:0.0139	test accuracy:0.8264
+
+[epoch: 14]
+train loss:0.0125	test accuracy:0.8242
+
+[epoch: 15]
+train loss:0.0127	test accuracy:0.8330
+
+[epoch: 16]
+train loss:0.0111	test accuracy:0.8363
+
+[epoch: 17]
+train loss:0.0105	test accuracy:0.8176
+
+[epoch: 18]
+train loss:0.0094	test accuracy:0.8308
+
+[epoch: 19]
+train loss:0.0079	test accuracy:0.8022
+
+[epoch: 20]
+train loss:0.0062	test accuracy:0.8319
+
+[epoch: 21]
+train loss:0.0060	test accuracy:0.8330
+
+[epoch: 22]
+train loss:0.0074	test accuracy:0.8011
+
+[epoch: 23]
+train loss:0.0048	test accuracy:0.8033
+
+[epoch: 24]
+train loss:0.0048	test accuracy:0.8319
+
+[epoch: 25]
+train loss:0.0040	test accuracy:0.8385
+
+[epoch: 26]
+train loss:0.0036	test accuracy:0.8418
+
+[epoch: 27]
+train loss:0.0046	test accuracy:0.8330
+
+[epoch: 28]
+train loss:0.0046	test accuracy:0.8286
+
+[epoch: 29]
+train loss:0.0032	test accuracy:0.8242
+
+[epoch: 30]
+train loss:0.0033	test accuracy:0.8220
+
+[epoch: 31]
+train loss:0.0033	test accuracy:0.8374
+
+[epoch: 32]
+train loss:0.0051	test accuracy:0.8264
+
+[epoch: 33]
+train loss:0.0042	test accuracy:0.8275
+
+[epoch: 34]
+train loss:0.0039	test accuracy:0.8330
+
+[epoch: 35]
+train loss:0.0029	test accuracy:0.8396
+
+[epoch: 36]
+train loss:0.0027	test accuracy:0.8374
+
+[epoch: 37]
+train loss:0.0025	test accuracy:0.8495
+
+[epoch: 38]
+train loss:0.0022	test accuracy:0.8538
+
+[epoch: 39]
+train loss:0.0027	test accuracy:0.8440
+
+[epoch: 40]
+train loss:0.0018	test accuracy:0.8396
+
+[epoch: 41]
+train loss:0.0023	test accuracy:0.8253
+
+[epoch: 42]
+train loss:0.0020	test accuracy:0.8154
+
+[epoch: 43]
+train loss:0.0021	test accuracy:0.8374
+
+[epoch: 44]
+train loss:0.0014	test accuracy:0.8495
+
+[epoch: 45]
+train loss:0.0016	test accuracy:0.8297
+
+[epoch: 46]
+train loss:0.0016	test accuracy:0.8385
+
+[epoch: 47]
+train loss:0.0017	test accuracy:0.8187
+
+[epoch: 48]
+train loss:0.0017	test accuracy:0.8396
+
+[epoch: 49]
+train loss:0.0014	test accuracy:0.8341
+
+[epoch: 50]
+train loss:0.0014	test accuracy:0.8286
+
+[epoch: 51]
+train loss:0.0015	test accuracy:0.8297
+
+[epoch: 52]
+train loss:0.0015	test accuracy:0.8330
+
+[epoch: 53]
+train loss:0.0017	test accuracy:0.8330
+
+[epoch: 54]
+train loss:0.0012	test accuracy:0.8396
+
+[epoch: 55]
+train loss:0.0011	test accuracy:0.8385
+
+[epoch: 56]
+train loss:0.0011	test accuracy:0.8352
+
+[epoch: 57]
+train loss:0.0013	test accuracy:0.8385
+
+[epoch: 58]
+train loss:0.0015	test accuracy:0.8396
+
+[epoch: 59]
+train loss:0.0011	test accuracy:0.8407
+
+[epoch: 60]
+train loss:0.0011	test accuracy:0.8275
+
+[epoch: 61]
+train loss:0.0011	test accuracy:0.8407
+
+[epoch: 62]
+train loss:0.0011	test accuracy:0.8407
+
+[epoch: 63]
+train loss:0.0011	test accuracy:0.8374
+
+[epoch: 64]
+train loss:0.0010	test accuracy:0.8286
+
+[epoch: 65]
+train loss:0.0009	test accuracy:0.8352
+
+[epoch: 66]
+train loss:0.0009	test accuracy:0.8374
+
+[epoch: 67]
+train loss:0.0011	test accuracy:0.8319
+
+[epoch: 68]
+train loss:0.0009	test accuracy:0.8374
+
+[epoch: 69]
+train loss:0.0011	test accuracy:0.8396
+
+[epoch: 70]
+train loss:0.0011	test accuracy:0.8330
+
+[epoch: 71]
+train loss:0.0011	test accuracy:0.8407
+
+[epoch: 72]
+train loss:0.0010	test accuracy:0.8330
+
+[epoch: 73]
+train loss:0.0014	test accuracy:0.8319
+
+[epoch: 74]
+train loss:0.0017	test accuracy:0.8407
+
+[epoch: 75]
+train loss:0.0013	test accuracy:0.8396
+
+[epoch: 76]
+train loss:0.0010	test accuracy:0.8352
+
+[epoch: 77]
+train loss:0.0010	test accuracy:0.8385
+
+[epoch: 78]
+train loss:0.0013	test accuracy:0.8374
+
+[epoch: 79]
+train loss:0.0011	test accuracy:0.8407
+
+[epoch: 80]
+train loss:0.0010	test accuracy:0.8418
+
+[epoch: 81]
+train loss:0.0013	test accuracy:0.8330
+
+[epoch: 82]
+train loss:0.0010	test accuracy:0.8374
+
+[epoch: 83]
+train loss:0.0010	test accuracy:0.8363
+
+[epoch: 84]
+train loss:0.0009	test accuracy:0.8374
+
+[epoch: 85]
+train loss:0.0010	test accuracy:0.8352
+
+[epoch: 86]
+train loss:0.0008	test accuracy:0.8396
+
+[epoch: 87]
+train loss:0.0009	test accuracy:0.8363
+
+[epoch: 88]
+train loss:0.0009	test accuracy:0.8363
+
+[epoch: 89]
+train loss:0.0009	test accuracy:0.8374
+
+[epoch: 90]
+train loss:0.0008	test accuracy:0.8374
+
+[epoch: 91]
+train loss:0.0011	test accuracy:0.8396
+
+[epoch: 92]
+train loss:0.0008	test accuracy:0.8385
+
+[epoch: 93]
+train loss:0.0009	test accuracy:0.8385
+
+[epoch: 94]
+train loss:0.0007	test accuracy:0.8385
+
+[epoch: 95]
+train loss:0.0009	test accuracy:0.8385
+
+[epoch: 96]
+train loss:0.0011	test accuracy:0.8396
+
+[epoch: 97]
+train loss:0.0010	test accuracy:0.8407
+
+[epoch: 98]
+train loss:0.0010	test accuracy:0.8418
+
+[epoch: 99]
+train loss:0.0008	test accuracy:0.8418
+
+[epoch: 100]
+train loss:0.0009	test accuracy:0.8407
+

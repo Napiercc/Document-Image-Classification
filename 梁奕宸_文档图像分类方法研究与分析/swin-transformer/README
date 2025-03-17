@@ -1,0 +1,57 @@
+## 文档图像分类方法研究与分析 ##
+
+# 1. 配置环境
+pip install -r requirements.txt
+
+# 2. 准备数据集，按照如下摆放
+-data-train-每个类别文件夹
+-data-test-每个类别文件夹
+
+# 3. 准备json文件，在class_indices.json 里更改
+{
+    "0": "AdPage",
+    "1": "BodyPage_Annotation",
+    "2": "BodyPage_Common",
+    "3": "BodyPage_Image",
+    "4": "BodyPage_PageFooter_Header",
+    "5": "BodyPage_Table",
+    "6": "BodyPage_TableTitle",
+    "7": "CatalogPage",
+    "8": "CopyrightPage",
+    "9": "CoverPage"
+}
+
+# 4. 更改train 文件参数,num-classes 类别数
+    parser.add_argument("--batch-size", default=16, type=int)
+    parser.add_argument("--num-classes", default=10, type=int)
+    parser.add_argument('--lr', default=0.001, type=float)
+    parser.add_argument('--lrf',default=0.01,type=float)
+    # 最终学习率 = lr * lrf
+
+# 5. 预测脚本，更改predict参数
+    num_classes = 2
+# 6.
+{
+    "0": "ADVE",
+    "1": "Email",
+    "2": "Form",
+    "3": "Letter",
+    "4": "Memo",
+    "5": "News",
+    "6": "Note",
+    "7": "Report",
+    "8": "Resume",
+    "9": "Scientific"
+}
+{
+    "0": "AdPage",
+    "1": "BodyPage_Annotation",
+    "2": "BodyPage_Common",
+    "3": "BodyPage_Image",
+    "4": "BodyPage_PageFooter_Header",
+    "5": "BodyPage_Table",
+    "6": "BodyPage_TableTitle",
+    "7": "CatalogPage",
+    "8": "CopyrightPage",
+    "9": "CoverPage"
+}
